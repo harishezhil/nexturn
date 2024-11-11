@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 1200,
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Phone",
+    "category": "Electronics",
+    "price": 500,
+    "available": false
+  },
+  {
+    "id": 3,
+    "name": "Desk",
+    "category": "Furniture",
+    "price": 150,
+    "available": true
+  }
+]

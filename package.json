@@ -1,0 +1,12 @@
+{
+    "name": "product-management",
+    "version": "1.0.0",
+    "description": "Product management system using JSON and Node.js",
+    "main": "productmanager.js",
+    "scripts": {
+        "start": "node productmanager.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
